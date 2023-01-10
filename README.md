@@ -13,22 +13,6 @@ flutter run
 ```
 
 ## 📦 Packages
-- `shared_preferences: ^2.0.7`
-- `cupertino_icons: ^1.0.2`
-- `awesome_extensions: ^1.0.7`
-- `auto_size_text: ^3.0.0`
-- `google_fonts: ^2.1.0`
-- `cached_network_image: ^3.2.0`
-- `hive: ^2.0.5`
-- `dio: ^4.0.4`
-- `graphql: ^5.0.0`
-- `shared_preferences: ^2.0.11`
-- `hooks_riverpod: ^1.0.3`
-- `date_format: ^2.0.4`
-- `url_launcher: ^6.0.17`
-- `equatable: ^2.0.3`
-- `mime: ^1.0.1`
-- `logger: ^1.1.0`
 
 ## Authors
 
